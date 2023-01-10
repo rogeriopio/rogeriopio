@@ -5,8 +5,8 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/rogeriopio) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/rogerio-pio/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerioxpio@gmail.com)
  
-Me Chamo Rogério Pio de Oliveira Junior.
-Moro em São Paulo 🏫. 
+Me Chamo Rogério Pio de Oliveira Junior.\
+Moro em São Paulo 🏫.\
 Trabalhei com administração de redes durante 14 anos , porém atualmente tenho interesse e estou estudando para entrar na área de desenvolvimento 👨‍💻.
 
 ## 📚 🌎 Conhecimentos na área da administração de redes
