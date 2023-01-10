@@ -1,4 +1,8 @@
-<h2> Olá!!   <img src="https://github.com/rogeriopio/rogeriopio/blob/main/tux-animado.gif" height="25px"></h2>
+
+<h2> 
+ <img src="https://github.com/rogeriopio/rogeriopio/blob/main/tux-animado.gif" height="40px"> 
+  Seja Bem Vindo !!
+</h2>
 
 <img align="right" src="https://github.com/rogeriopio/rogeriopio/blob/main/animation.gif" width='200'/>
 
