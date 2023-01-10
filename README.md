@@ -19,7 +19,8 @@ Trabalhei com administração de redes durante 14 anos , porém atualmente tenho
    + Vlan,Roteamento Estático, Roteamento Dinámico(bgp,ospf),link aggregation,
    + Banco de dados Sql, Autenticação Single Sign On,
    + Gerenciamento de usuários e grupos utilizando os  serviços Ldap ou Samba,
-   + Controles de pacotes com Content Filtering e Políticas de Conformidades.
+   + Controles de pacotes com Content Filtering e Políticas de Conformidades,
+   + Sistemas Operacionais (Windows, Linux).
 
 ## 📚👨🏽‍💻 Conhecimentos na área de desenvolvimento 
 - Frontend - **Html5 , Css, Javascript, Typescript**
