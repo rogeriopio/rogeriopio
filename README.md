@@ -6,7 +6,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerioxpio@gmail.com)
  
 Me Chamo Rogério Pio de Oliveira 🧔
-Moro em São Paulo 🏫. Trabalhei com administração de redes durante 12 anos , porém atualmente tenho interesse e estou estudando para entrar na área de desenvolvimento 👨‍💻.
+Moro em São Paulo 🏫. Trabalhei com administração de redes durante 14 anos , porém atualmente tenho interesse e estou estudando para entrar na área de desenvolvimento 👨‍💻.
 
 ## 📚 🌎 Conhecimentos na área da administração de redes
 + Implementação de servidores localmente e remotamente de sistemas  baseados em red hat,
