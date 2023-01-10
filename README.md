@@ -39,9 +39,3 @@ Moro em São Paulo 🏫. Trabalhei com administração de redes durante 12 anos 
 | TailwindCss,JavaScript| Sorteador de numeros| github.com/rogeriopio/sorteador-numerico|
 | TailwindCss|Pagina Blog| github.com/rogeriopio/blog-EasyShop |
 | NodeJs,HandleBars,Sequelize,MvC| Urna Eletronica| github.com/rogeriopio/todo_mvc_handlebars|
-
-
-
-
-
-[T(https://github.com/rogeriopio/TodoList)
