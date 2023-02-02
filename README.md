@@ -30,6 +30,7 @@ Trabalhei com administração de redes durante 14 anos , porém atualmente tenho
 - Frontend - **Html5 , Css, Javascript, Typescript**
 - Framework Frontend - **TailwindCss ,ReactJs**
 - Backend - **NodeJS,Banco relacional (Postgres ,Sql ),Banco não relacional (MongoDB)**
+- Framework Frontend - **NodeExpress ,HandleBars,ORM (Sequelize) ,ODM (Mongoose)**
 - Versionamento - **Git**
 - Padrão - **MvC**
 - Arquitetura - **API RESTful**
