@@ -45,4 +45,4 @@ Trabalhei com administração de redes durante 14 anos , porém atualmente tenho
 | Javascript| Urna Eletronica| github.com/rogeriopio/urna-eletronica |
 | TailwindCss,JavaScript| Sorteador de numeros| github.com/rogeriopio/sorteador-numerico|
 | TailwindCss|Pagina Blog| github.com/rogeriopio/blog-EasyShop |
-| NodeJs,HandleBars,Sequelize,MvC| Urna Eletronica| github.com/rogeriopio/todo_mvc_handlebars|
+| NodeJs,HandleBars,Sequelize,MvC| ToDO| github.com/rogeriopio/todo_mvc_handlebars|
